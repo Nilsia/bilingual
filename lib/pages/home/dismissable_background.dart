@@ -5,9 +5,9 @@ class DeleteBackgroundCardDismiss extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return const Card(
         color: Colors.red,
-        child: const Padding(
+        child: Padding(
             padding: EdgeInsets.only(left: 50),
             child: Align(
               alignment: Alignment.centerLeft,
@@ -38,9 +38,9 @@ class OtherBackgroundCardDismiss extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return const Card(
         color: Colors.green,
-        child: const Padding(
+        child: Padding(
             padding: EdgeInsets.only(right: 50),
             child: Align(
               alignment: Alignment.centerRight,

@@ -1,6 +1,6 @@
 import 'package:bilingual/models/database_manager.dart';
-import 'package:bilingual/models/pages/home/dismissable_background.dart';
-import 'package:bilingual/models/pages/home/words_tile.dart';
+import 'package:bilingual/pages/home/dismissable_background.dart';
+import 'package:bilingual/pages/home/words_tile.dart';
 import 'package:bilingual/models/words.dart';
 import 'package:bilingual/utils/backup_manager.dart';
 import 'package:bilingual/utils/customColorScheme.dart';

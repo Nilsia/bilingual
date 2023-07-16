@@ -1,5 +1,5 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
-import 'package:bilingual/models/pages/home_page.dart';
+import 'package:bilingual/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
